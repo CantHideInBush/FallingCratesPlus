@@ -1,0 +1,3 @@
+invalid-command-sender: "Polecenie nie jest przeznaczone dla tego typu nadawcy!"
+invalid-command-sender-player: "Polecenie nie jest przeznaczone dla graczy!"
+invalid-command-sender-console: "Polecenie nie jest przeznaczone dla konsoli!"

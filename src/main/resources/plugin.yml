@@ -1,0 +1,8 @@
+authors: [Karwsz]
+main: pl.karwsz.fallingcratesplus.FallingCratesPlus
+version: SNAPSHOT-1.0.0
+name: FallingCratesPlus
+description: Falling crates
+api-version: 1.18
+depend:
+  - CHIBUtils
