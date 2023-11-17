@@ -1,3 +1,78 @@
 invalid-command-sender: "Polecenie nie jest przeznaczone dla tego typu nadawcy!"
 invalid-command-sender-player: "Polecenie nie jest przeznaczone dla graczy!"
 invalid-command-sender-console: "Polecenie nie jest przeznaczone dla konsoli!"
+
+function-not-ready: "Ta funkcja pluginu nie jest jeszcze gotowa"
+
+command-arguments-insufficient: "Niewystarczajaca ilosc argumentow!"
+
+
+
+command-zone-create-success: "Strefa utworzona pomyslnie!"
+command-zone-create-already-exists: "Strefa o nazwie %s juz istnieje!"
+command-zone-create-tabc-name: " "
+
+command-zone-display-none: "Brak stref w obecnym swiecie!"
+
+command-zone-settings-nonexistent: "Ustawienia o podanym id nie istnieja"
+
+command-zone-settings-create-id-taken: "To id jest uzywane przez inne ustawienia strefy"
+command-zone-settings-create-success: "Pomyslnie utworzono ustawienia strefy"
+
+command-zone-settings-delete-id-nonexistent: "Ustawienia strefy o podanej nazwie nie istnieja"
+command-zone-settings-delete-success: "Pomyslnie usunieto strefe!"
+
+
+
+command-zone-settings-edit-material-added: "Pomyslnie dodano material!"
+command-zone-settings-edit-material-removed: "Pomyslnie usunieto material!"
+command-zone-settings-edit-success: "Zmieniono ustawienie %s na %s"
+command-zone-settings-edit-incorrect-data-type: "Wprowadzono niepoprawny typ danych"
+command-zone-settings-edit-setting-nonexistent: "Ustawienie o podanej nazwie nie istnieje!"
+
+command-item-create-path-arument: "Musisz podac sciezke zapisu przedmiotu!"
+command-item-create-path-taken: "Podana sciezka jest zajeta!"
+command-item-create-no-item: "Musisz trzymac zapisywany przedmiot w rece!"
+command-item-create-success: "Pomyslnie zapisano przedmiot!"
+
+command-item-delete-path-path-arument: "Musisz podac sciezke do usuniecia!"
+command-item-delete-path-path-nonexistent: "Podana sciezka nie istnieje!"
+command-item-delete-path-success: "Usunieto sciezke"
+
+
+command-item-get-path-argument: "Musisz podac sciezke!"
+command-item-get-path-nonexistent: "Zaden przedmiot nie jest zapisany pod podana sciezka!"
+command-item-get-success: "Otrzymano przedmiot"
+
+command-crate-create-id-taken: "Podane id jest juz uzywane przez inna skrzynie!"
+command-crate-create-success: "Pomyslnie utworzono skrzynie"
+
+command-crate-delete-nonexistent: "Skrzynia o podanym id nie istnieje"
+command-crate-delete-success: "Usunieto skrzynie"
+
+command-crate-edit-nonexistent: "Skrzynia o podanym id nie istnieje"
+command-crate-edit-setting-nonexistent: "Ustawienie o podanej nazwie nie istnieje!"
+
+command-crate-edit-displayName-success: "Zmieniono wyswietlana nazwe"
+command-crate-edit-permission-success: "Zmieniono uprawnienie do otwierania skrzyni"
+command-crate-edit-drop-drop_nonexistent: "Zmieniono uprawnienie do otwierania skrzyni"
+
+command-crate-edit-drop-add-id_taken: "Przedmiot dropu o podanym id juz istnieje w konfiguracji skrzyni %s!"
+command-crate-edit-drop-add-success: "Pomyslnie dodano przedmiot do dropu"
+command-crate-edit-drop-soe_100_gt_0: "Szansa na drop przedmiotu musi byc wieksza od 0 i mniejsza badz rowna 100"
+
+command-crate-edit-drop-delete-success: "Pomyslnie usunieto przedmiot z dropu"
+command-crate-edit-drop-chance-success: "Pomyslnie zmieniono szanse na drop"
+command-crate-edit-drop-amountChance-success: "Pomyslnie zmieniono szanse ilosci na drop"
+command-crate-edit-drop-tabcomplete_id: "id"
+command-crate-edit-drop-tabcomplete_amount: "ilosc"
+command-crate-edit-drop-tabcomplete_chance: "szansa"
+
+
+command-crate-edit-drop-incorrect_quantity: "Ilosc przedmiotow nie moze byc wieksza niz pojemnosc skrzynii ani mniejsza niz 1!"
+command-crate-edit-drop-too_high_chance: "Szansa na ilosc nie moze byc wieksza niz 100!"
+command-crate-edit-quantity-success: "Pomyslnie dodano szanse na ilosc przedmiotow"
+command-crate-edit-quantity-removed: "Pomyslnie usunieto szanse na ilosc przedmiotow"
+
+command-crate-spawn-crate_nonexistent: "Skrzynia o podanym id nie istnieje!"
+command-crate-spawn-zone_nonexistent: "Nie znajdujesz sie w zadnej strefie zrzutu!"
